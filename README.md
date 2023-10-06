@@ -1,2 +1,3 @@
-# react-starter-template
-Simple react starter template with unit-testing, e2e, redux and router
+# React challente
+
+Una app desarrollada en react para demostrar diferentes habilidades como react router, redux, llamados a api etc.
