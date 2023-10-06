@@ -14,4 +14,8 @@ export const router = createBrowserRouter([
   TodosRoute,
   ProductsRoute,
   LoginRoute,
+  {
+    path: "/*",
+    element: <Navigate to={PATHS.COUNTER} />,
+  },
 ]);
